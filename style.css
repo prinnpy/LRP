@@ -1,0 +1,50 @@
+.site-header {
+    background-color: white;
+}
+
+.nav-color {
+    color: #AAACAE;
+    margin-left: 35px;
+}
+
+.nav-color:hover {
+    color: #2B3034;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logo-color {
+    color: #282D32;
+    font-size: 20px;
+}
+
+body {
+    background-color: #f4f4f5; 
+}
+
+.welcome {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.welcome-text {
+    color: #282D32;
+}
+
+.menu {
+    width: 100vh;
+}
+
+.whodis {
+    background-color: #282D32;
+    border-radius: 10px;
+}
+
+.whodis-text {
+    color: white;
+}
+
+.hotbod {
+    border-radius: 10px;;
+    width: 200px;
+}
